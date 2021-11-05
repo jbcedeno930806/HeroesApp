@@ -16,7 +16,7 @@ export const HeroCard = ({
           {/* process.env.PUBLIC_URL + "./assets/imgs/cart.svg" */}
           <img
             className="card-img-top"
-            src={process.env.PUBLIC_URL + `/HeroApp/assets/heroes/${id}.jpg`}
+            src={process.env.PUBLIC_URL + `/HeroesApp/assets/heroes/${id}.jpg`}
             alt={alter_ego}
           />
         </div>
