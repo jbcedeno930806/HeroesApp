@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/heroes-list/heroCard.css"],"names":[],"mappings":"AAAA,IACE,eAAgB,CAChB,WAAY,CACZ,gBAAiB,CACjB,eACF","file":"main.3ef6df53.chunk.css","sourcesContent":["img {\r\n  max-height: 100%;\r\n  height: 100%;\r\n  object-fit: cover;\r\n  overflow: hidden;\r\n}\r\n"]}
